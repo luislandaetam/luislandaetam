@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the website for Adenticing Digital (@adenticing on Instagram) 🍊 and creating a management system for San Cayetano Scout Group (@gruposancayetano on Instagram) 🔵⚜️🔴<br><br>🌱 I’m currently learning Next.js and building my way up as a web developer. 🚀<br><br>💬 Ask me about my projects and ideas<br><br>⚡ Interesting fact: I may not be able to answer your question, but I will not rest until I find the answer. 💪
+🔭 I’m currently working on the website for Adenticing Digital (@adenticing on Instagram) 🍊 and creating a management system for San Cayetano Scout Group (@gruposancayetano on Instagram) 🔵⚜️🔴<br><br>🌱 I’m currently learning Typescript and building my way up as a web developer. 🚀<br><br>💬 Ask me about my projects and ideas<br><br>⚡ Interesting fact: I may not be able to answer your question, but I will not rest until I find the answer. 💪
 
 
 ## 🌐 Socials:
