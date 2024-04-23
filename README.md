@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on an Admin System for @gruposancayetano.<br><br>🌱 I'm currently learning TypeScript.<br><br>⚡ Fun fact: quite a gamer, but probably the worst one you've ever since. Fully capable of sacrificing myself for the team on Helldivers 2.
+🔭 I'm currently working on an Admin System for @gruposancayetano.<br><br>🌱 I'm currently learning TypeScript.<br><br>⚡ Fun fact: quite a gamer, but probably the worst one you've ever seen. Fully capable of sacrificing myself for the team on Helldivers 2.
 
 
 ## 🌐 Socials:
